@@ -1,0 +1,13 @@
+java.util.Random
+Random r=new Random();
+r.nextLong();
+r.nextBoolean();
+Setting Range method is to write the number within parenthesis. For(0-19) we use 20
+For (5-35) we use nextInt(31)+5
+prmiditive data types are called wrapper classes. (I_D_F_B_L)
+For generatinng the same sequence we will use //r.setSeed();
+
+
+Math.max(1,2);
+Math.PI;
+For class Math no need to create object
